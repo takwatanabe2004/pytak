@@ -1,0 +1,3 @@
+Deprecated this thing on april 8, 2016.
+Most of the stuffs here from bhargav's nnet....still may look into his implementation
+here and there.
